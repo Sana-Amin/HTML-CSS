@@ -1,0 +1,23 @@
+p{
+    margin: 40px;
+    text-align: center;
+    position: relative;
+    font-size: 40px;
+
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: rgb(196, 112, 112);
+  }
+
+  h2,h4{
+    text-align: center;
+    position: relative;
+    color: rgb(73, 172, 187)
+  }
+  
+
+
+
